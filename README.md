@@ -23,3 +23,7 @@ time goes on before the interview if I'm permitted to do so.
 I hope to solve the puzzle by the end of the week.
 
 
+
+![3_containers_running](https://user-images.githubusercontent.com/47396197/56309321-ee655200-617b-11e9-9c8e-38826a7770ae.png)
+
+
