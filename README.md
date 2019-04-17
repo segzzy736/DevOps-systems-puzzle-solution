@@ -27,3 +27,8 @@ I hope to solve the puzzle by the end of the week.
 ![3_containers_running](https://user-images.githubusercontent.com/47396197/56309321-ee655200-617b-11e9-9c8e-38826a7770ae.png)
 
 
+The image above shows a screen grab of the three running containers. Given a little bit more time I should be able to resolve all
+issues In the puzzle. However One possible issue with the Dockerfile in this repo is that the COPY statement which is the third statement from the bottom seem to only have one argurement when it seems it should have two. I plan to look more closely at this and scrutinize the entire code very well.  
+
+I have made more detailed note of the process that lead me thus far from installation of docker-compose and docker CE and all their dependencies as well as all the issues encountered.
+
