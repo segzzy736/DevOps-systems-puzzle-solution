@@ -1,4 +1,4 @@
-# systems-puzzle-solution-seye
+# systems-puzzle-solution
 This is my solution to the devops systems puzzle .
 
 Its still a work in progress and given more time I should be able
